@@ -1,2 +1,2 @@
 # BubbleBuster
-The player tries to pop the bubbles by bouncing the ball off a platform the player is moving.
+The player tries to pop the bubbles by bouncing the ball off a platform that the player is moving.
